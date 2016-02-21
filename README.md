@@ -1,5 +1,3 @@
-![]({{site.baseurl}}/http://i.imgur.com/Sy4NoOT.png)
-
 # Van Pelt: YARN Job Killer
 
 Van Pelt is a lightweight tool to kill all existing YARN jobs at once.
