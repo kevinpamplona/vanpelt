@@ -1,4 +1,4 @@
-![]({{site.baseurl}}//Van_Pelt_in_the_film.png)
+![]({{site.baseurl}}/http://i.imgur.com/Sy4NoOT.png)
 
 # Van Pelt: YARN Job Killer
 
