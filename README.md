@@ -3,12 +3,15 @@
 Van Pelt is a lightweight tool to kill all existing YARN jobs at once.
 
 ## Downloading Van Pelt
-Have Van Pelt ready on your Amazon EMR cluster by providing the following URI as a Custom Bootstrap Action PATH: 
+Have Van Pelt ready on your Amazon EMR cluster by providing the following URI as a Custom Bootstrap Action PATH:
+```
 https://github.com/kevinpamplona/vanpelt/blob/master/vanpelt-bootstrap.sh
+```
 
 Alternatively, you can run the following to directly download vanpelt.sh:
+```
 wget -S -T 10 -t 5 https://github.com/kevinpamplona/vanpelt/blob/master/vanpelt.sh
-
+```
 
 ## TODO
 - Update README w/ examples
