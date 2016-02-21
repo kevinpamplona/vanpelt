@@ -1,3 +1,5 @@
+![]({{site.baseurl}}//Van_Pelt_in_the_film.png)
+
 # Van Pelt: YARN Job Killer
 
 Van Pelt is a lightweight tool to kill all existing YARN jobs at once.
